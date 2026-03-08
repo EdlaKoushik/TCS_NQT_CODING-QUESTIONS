@@ -1,5 +1,5 @@
 # TCS_NQT_CODING-QUESTIONS
-# 🔴 QUESTION 3 –# Sunday Counter Problem
+# 🔴 QUESTION 3 – Sunday Counter Problem
 # Problem Statement
 Jack is always excited about Sunday. It is his favourite day, when he gets to play all day and goes to cycling with his friends.
 So every time when the month starts he counts the number of Sundays he will get to enjoy.
